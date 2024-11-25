@@ -1,6 +1,7 @@
 # 🚀 ExtraaLearn: Predicting Potential Customers
 
 ## Content
+
 This Data Science and Machine Learning project uses tools such as Decision Tree, Random Forest, GridSearchCV, and Confusion Matrix
 to generate a model to predict which leads could become paid customers for the company ExtraaLearn. In particular, Recall should be as high as possible to
 lower the number of False Negatives. Moreover, recommendations and business insights are given based on both, the Exploratory Data Analysis and the best model.
