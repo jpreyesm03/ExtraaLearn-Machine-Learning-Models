@@ -22,7 +22,7 @@ lower the number of False Negatives. Moreover, recommendations and business insi
 The dataset includes detailed information about leads and their interactions with ExtraaLearn. Key features:
 
 - **👤 Demographics**: Age, current occupation.
-- **🔗 Interactions**: Website visits, time spent, page views, last activity.
+- **🔗 Interactions**: Website visits, time spent, page views, last activity, first interaction.
 - **📢 How did the lead find the company**: Digital, print, or referral channels.
 - **🎯 Target**: Binary classification of lead conversion status.
 
